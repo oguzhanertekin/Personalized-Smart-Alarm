@@ -1,5 +1,6 @@
 # Personalized-Smart-Alarm
-#(AI Model with Python)
+# (AI Model with Python)
+
 Initially, our goal was to deduce sleep cycles with a machine learning model and a personalized sleep cycle pattern. With our personalized smart alarm project with this pattern, we aimed to understand whether the person is sleeping efficiently and to adjust the wake-up time in accordance with the person's sleep cycle. In this project, we collected sleep data for 60 days with a smart watch to learn about a person's sleep cycle. Using this data, we obtained the person's sleep cycle. Although we tried to develop a model with the data we obtained from the smart watch we have, proper sleep cycle patterns and a consistent model were not formed. Therefore, we developed a model that predicts sleep quality score based on sleep cycles, total sleep time, and total Rem/NonRem sleep time.
 
 
